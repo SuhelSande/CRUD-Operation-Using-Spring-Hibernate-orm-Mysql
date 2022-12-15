@@ -1,1 +1,1 @@
-# CRUD-Operation-Using-Spring-Hibernate-orm-Mysql
+# CRUD-Operation-Using-Spring-Hibernate-ORM-Mysql
